@@ -1,7 +1,7 @@
 {
   "name": "node-builtins-mocks",
   "version": "0.1.0",
-  "description": "",
+  "description": "auto generate mocks for built-in node.js modules",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/*.test.js"
